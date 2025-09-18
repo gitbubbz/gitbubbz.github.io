@@ -1,2 +1,3 @@
-[validator]
-public_key = "nHUt9PkhDXNxei6aemzQr3ihYd4S7zAxWQUKAryyYxec9EkWbrmi"
+[[VALIDATORS]]
+public_key = "nHUt9PkhDXNxei6aemzQr3ihYd4S7zAxWQUKAryyYxec9EklWbrm1"
+attestation = "Warblur validator"
